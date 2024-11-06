@@ -1,9 +1,6 @@
 # Zenn Article
 Zenn Account <https://zenn.dev/tomotomobile>
 
-## Why write the Tech Blog
-なぜテックブログを書くのでしょうか？
-
 ## How to write
 
 ### 新しい記事の作成
@@ -15,7 +12,7 @@ npx zenn new:article --slug 記事のスラッグ --title タイトル --type id
 Publicationの新しい記事の作成
 
 ```zsh
-npx zenn new:article --slug 記事のスラッグ --title タイトル --type idea --emoji ✨
+npx zenn new:article --slug 記事のスラッグ --title タイトル --type idea --emoji ✨ --publication-name booost
 ```
 
 ### プレビュー
